@@ -6,7 +6,7 @@ I can explain my dev-activity with 3 words: Games-Studying-RandomSh**
 
 Actually, there are 4 words, but who cares?
 
-Skills: C# / C / C++ / Python / PHP
+Skills: C# / C / C++ / Python / PHP / Java
 
 - 🔭 I’m currently working on the best RPG ever! (boastful dunce...) 
 - 🌱 I’m currently learning C# & .NET, Python, some Design Patterns and other boring things 
