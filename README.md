@@ -13,8 +13,6 @@ Skills: C# / C / C++ / Python / PHP / Java
 - 🤔 I’m looking for help with math analysis........ 
 - ⚡ Fun fact: give someone a game and he will be happy for some days. Teach someone to make games and he will never be happy anymore
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kolosya-tuchka)](https://github.com/anuraghazra/github-readme-stats)
-
 stats-stats-stats-stats-stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolosya-tuchka&show_icons=true&count_private=true)  
