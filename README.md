@@ -6,10 +6,10 @@ I can explain my dev-activity with 3 words: Games-Studying-RandomSh**
 
 Actually, there are 4 words, but who cares?
 
-Skills: C# / C / C++ / Python / PHP / Java
+Skills: C# / C / C++ / Python / Go / Java
 
 - 🔭 I’m currently working on the best RPG ever! (boastful dunce...) 
-- 🌱 I’m currently learning C# & .NET, Python, some Design Patterns and other boring things 
+- 🌱 I’m currently learning C# & .NET, Python, Docker, Go,  some Design Patterns and other boring things 
 - 🤔 I’m looking for help with math analysis........ 
 - ⚡ Fun fact: give someone a game and he will be happy for some days. Teach someone to make games and he will never be happy anymore
 
